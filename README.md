@@ -32,22 +32,7 @@ In our listening evaluation, participants **could not reliably distinguish AI-ge
 
 **Based on:** *Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion*
 
-The project investigates how disfluencies—often treated as errors in speech—can instead contribute to more natural conversational AI.
-
-## Repository Contents
-
-Explore the code and project files in this repository for the implementation and evaluation materials. The precise setup, dependencies, and run instructions should be taken from the accompanying project files.
-
-<!-- Optional: Replace this section with an accurate directory tree, setup steps, and example commands after checking the repository structure. -->
-
-## Team and Attribution
-
-This was a **collaborative academic project** completed at the Technion – Israel Institute of Technology.
-
-- **Noor Shahin** — Project team member
-- **Other team members:** Add names and links with their permission
-
-This repository is a fork of the original team repository. Credit for the shared work belongs to the project contributors; for individual contributions, see the project's commit history and documentation.
+The project investigates how disfluencies often treated as errors in speech can instead contribute to more natural conversational AI.
 
 ## Future Directions
 
