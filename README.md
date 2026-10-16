@@ -37,7 +37,3 @@ The project investigates how disfluencies often treated as errors in speech can 
 ## Future Directions
 
 Potential extensions include evaluating larger and more diverse listening groups, testing additional disfluency patterns, and comparing different speech synthesis systems.
-
----
-
-*Research and academic project. Results describe our evaluation setting and should not be interpreted as universal performance claims.*
