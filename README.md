@@ -13,7 +13,7 @@ Large language models are usually trained to produce fluent, polished text. Huma
 
 This project explores a simple question:
 
-> **Can introducing natural disfluencies make AI-generated speech sound more human?**
+**Can introducing natural disfluencies make AI-generated speech sound more human?**
 
 Inspired by the research paper *“Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion,”* we fine-tuned language models to transform fluent text into more conversational utterances. We then synthesized speech from the generated text and evaluated how listeners perceived it.
 
