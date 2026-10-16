@@ -1,6 +1,11 @@
 # Disfluency Insertion: Making AI-Generated Speech Sound More Human
 
 **An NLP and speech-generation research project | Technion – Israel Institute of Technology**
+## Research Poster
+
+<p align="center">
+  <img src="assets/poster.jpg" alt="Disfluency Insertion Research Poster" width="800">
+</p>
 
 ## Overview
 
