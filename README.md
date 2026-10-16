@@ -4,7 +4,7 @@
 ## Research Poster
 
 <p align="center">
-  <img src="assets/poster.jpg" alt="Disfluency Insertion Research Poster" width="800">
+  <img src="poster.jpg" alt="Disfluency Insertion Research Poster" width="800">
 </p>
 
 ## Overview
